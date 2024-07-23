@@ -1,23 +1,35 @@
-## Olá, eu sou o Thyago Rafael, um amante de tecnologia e um estudante de Engenharia de Software!
+<h1>Hi, my name is Thyago!</h1>
+<p>🧑🏽‍💻 FullStack Developer</p>
 
-<div align="center">
-  <img align="center" alt="React" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="React" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-  <img align="center" alt="Ts" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Sass" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="Sass" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg">
-  <img align="center" alt="Node" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="center" alt="PostgreSQL" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="PostgreSQL" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
-</div>
-
-  <br>
-
-  <br>
+<h2>About</h2>
+<p>I'm a Full Stack Developer, a lover of technology and I'm always studying to will have more knowledge and develop the best solutions.</p>
+<p>I have developed projects and have experience in the following technologies:</p>
+<ul>
+  <li>HTML, CSS and JS</li>
+  <li>Sass</li>
+  <li>Bootstrap</li>
+  <li>Typescript</li>
+  <li>ReactJS</li>
+  <li>NextJS</li>
+  <li>Tailwind</li>
+  <li>Styled-components</li>
+  <li>Formik, Yup</li>
   
-  <h2 align="center"> Redes sociais </h2>
+  <li>NodeJS</li>
+  <li>Express</li>
+  <li>PostgreSQL and MongoDB</li>
+  <li>Rest APIs</li>
+  
+  <li>Git</li>
+  <li>ORM(Prisma, Sequelize)</li>
+  <li>ODM(Mongoose)</li>
+</ul>
+<p>I am able to develop robust and scalable solutions to solve any problem, delivering the product with high quality and on time. I have experience using the S.O.L.I.D and MVC Architecture principles.</p>
+<p>I love solving challenges and I am always willing to learn more and more.</p>
+
+<h2>Contact</h2>
  
-<div align="center"> 
+<div> 
   <a href="https://instagram.com/thyago.rc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" width="150" height="35"></a>
   <a href="mailto:thyagorafael57@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" width="120" height="35"></a>
   <a href="https://www.linkedin.com/in/thyago-rafael-287520278" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="150" height="35"></a>
