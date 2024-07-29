@@ -13,7 +13,6 @@
   <li>NextJS</li>
   <li>Tailwind</li>
   <li>Styled-components</li>
-  <li>Formik, Yup</li>
   
   <li>NodeJS</li>
   <li>Express</li>
