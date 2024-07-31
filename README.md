@@ -1,8 +1,8 @@
 <h1>Hi, my name is Thyago!</h1>
-<p>🧑🏽‍💻 FullStack Developer</p>
+<p>🧑🏽‍💻 Front end Developer</p>
 
 <h2>About</h2>
-<p>I'm a Full Stack Developer, a lover of technology and I'm always studying to will have more knowledge and develop the best solutions.</p>
+<p>I'm a Front end Developer, a lover of technology and I'm always studying to will have more knowledge and develop the best solutions.</p>
 <p>I have developed projects and have experience in the following technologies:</p>
 <ul>
   <li>HTML, CSS and JS</li>
@@ -17,11 +17,10 @@
   <li>NodeJS</li>
   <li>Express</li>
   <li>PostgreSQL and MongoDB</li>
-  <li>Rest APIs</li>
+  <li>RESTful APIs</li>
   
   <li>Git</li>
   <li>ORM(Prisma, Sequelize)</li>
-  <li>ODM(Mongoose)</li>
 </ul>
 <p>I am able to develop robust and scalable solutions to solve any problem, delivering the product with high quality and on time. I have experience using the S.O.L.I.D and MVC Architecture principles.</p>
 <p>I love solving challenges and I am always willing to learn more and more.</p>
