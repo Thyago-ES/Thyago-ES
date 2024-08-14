@@ -21,6 +21,7 @@
   
   <li>Git</li>
   <li>ORM(Prisma, Sequelize)</li>
+  <li>Docker</li>
 </ul>
 <p>I am able to develop robust and scalable solutions to solve any problem, delivering the product with high quality and on time. I have experience using the S.O.L.I.D and MVC Architecture principles.</p>
 <p>I love solving challenges and I am always willing to learn more and more.</p>
