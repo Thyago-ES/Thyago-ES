@@ -15,12 +15,13 @@
   <li>Styled-components</li>
   
   <li>NodeJS</li>
-  <li>Express</li>
-  <li>PostgreSQL and MongoDB</li>
+  <li>Express/Fastify</li>
+  <li>MySQL/PostgreSQL and MongoDB</li>
   <li>RESTful APIs</li>
   
   <li>Git</li>
   <li>ORM(Prisma, Sequelize)</li>
+  <li>ODM(Mongoose)</li>
   <li>Docker</li>
 </ul>
 <p>I am able to develop robust and scalable solutions to solve any problem, delivering the product with high quality and on time. I have experience using the S.O.L.I.D and MVC Architecture principles.</p>
