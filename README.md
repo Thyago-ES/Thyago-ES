@@ -1,8 +1,8 @@
 <h1>Hi, my name is Thyago!</h1>
-<p>🧑🏽‍💻 Front end Developer</p>
+<p>🧑🏽‍💻 Full Stack Developer</p>
 
 <h2>About</h2>
-<p>I'm a Front end Developer, a lover of technology and I'm always studying to will have more knowledge and develop the best solutions.</p>
+<p>I'm a Full Stack Developer, a lover of technology and I'm always studying to will have more knowledge and develop the best solutions.</p>
 <p>I have developed projects and have experience in the following technologies:</p>
 <ul>
   <li>HTML, CSS and JS</li>
